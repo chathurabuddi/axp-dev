@@ -79,7 +79,7 @@ ENV MAVEN_HOME /opt/maven
 #### INSATLL DEV TOOLS ####
 ###########################
 
-RUN apt-get update && apt-get install -y vim curl git && rm -rf /var/lib/apt/lists/*
+RUN apt-get update && apt-get install -y vim curl git zip unzip && rm -rf /var/lib/apt/lists/*
 
 ENTRYPOINT ["mysql-entrypoint.sh"]
 EXPOSE 3306 33060 8243 8280 9443 9444 9445 5005
