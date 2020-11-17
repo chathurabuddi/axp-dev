@@ -2,12 +2,12 @@
 [![Ubuntu 16.04](https://img.shields.io/badge/ubuntu-16.04-brightgreen.svg)]() 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chathurabuddi/axp-dev/blob/master/LICENSE) 
 [![Docker Pulls](https://img.shields.io/docker/pulls/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/) 
-[![Docker Stars](https://img.shields.io/docker/stars/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/)  
+[![Docker Stars](https://img.shields.io/docker/stars/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/)   
 
-This docker image is configured and pre installed all dependancies for running AXP and WSO2 products such as AXP Digital Enablement Platform (DEP), WSO2 Identity Server and WSO2 Enterprise Integrator.
+This docker image is configured and pre-installed all dependencies for running AXP and WSO2 products such as AXP Digital Enablement Platform (DEP), WSO2 Identity Server, and WSO2 Enterprise Integrator.
 
 #### Pre-installed Dependencies
-The following dependancies are pre-installed and configured for AXP developmnet environment.
+The following dependencies are pre-installed and configured for the AXP development environment.
 - Java Development Kit 1.8.0_131
 - MySQL 5.7.32
 - Maven 3.6.3
@@ -24,7 +24,7 @@ Please make sure to read the
 before opening an issue. Issues not conforming to the guidelines may be closed immediately.
 
 #### Contribution
-Contributions, issues and feature requests are welcome. Feel free to check 
+Contributions, issues, and feature requests are welcome. Feel free to check 
 [issues page](https://github.com/chathurabuddi/axp-dev/issues) 
 if you want to contribute. Please make sure to read the 
 [contributing guide](https://github.com/chathurabuddi/axp-dev/blob/master/CONTRIBUTING.md) 
