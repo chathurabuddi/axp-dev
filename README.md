@@ -1,11 +1,10 @@
 # AXP Dev Docker Image
-This docker image is configured and pre installed all dependancies for running AXP and WSO2 products such as AXP Digital Enablement Platform (DEP), WSO2 Identity Server and WSO2 Enterprise Integrator.  
-
-[![Ubuntu 16.04](https://img.shields.io/badge/ubuntu-14.04-brightgreen.svg)]() 
+[![Ubuntu 16.04](https://img.shields.io/badge/ubuntu-16.04-brightgreen.svg)]() 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chathurabuddi/axp-dev/blob/master/LICENSE) 
 [![Docker Pulls](https://img.shields.io/docker/pulls/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/) 
 [![Docker Stars](https://img.shields.io/docker/stars/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/) 
-[![Docker image](https://images.microbadger.com/badges/image/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/) 
+[![Docker image](https://images.microbadger.com/badges/image/chathurabuddika/axp-dev.svg)](https://hub.docker.com/r/chathurabuddika/axp-dev/)  
+This docker image is configured and pre installed all dependancies for running AXP and WSO2 products such as AXP Digital Enablement Platform (DEP), WSO2 Identity Server and WSO2 Enterprise Integrator.
 
 #### Pre-installed Dependencies
 The following dependancies are pre-installed and configured for AXP developmnet environment.
