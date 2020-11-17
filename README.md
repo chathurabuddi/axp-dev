@@ -15,7 +15,7 @@ The following dependencies are pre-installed and configured for the AXP developm
 
 #### Run the Image
 ```
-docker run --name axp-dev -e MYSQL_ROOT_PASSWORD=[password] -d -p 3306:3306 -p 8243:8243 -p 8280:8280 -p 9443:9443 -p 9444:9444 -p 9445:9445 -p 5005:5005 axp-dev:[tag]
+docker run --name axp-dev -e MYSQL_ROOT_PASSWORD=[password] -d -p 3306:3306 -p 8243:8243 -p 8280:8280 -p 9443:9443 -p 9444:9444 -p 9445:9445 -p 5005:5005 chathurabuddika/axp-dev:[tag]
 ```
 
 #### Issues
